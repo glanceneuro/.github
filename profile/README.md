@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glanceneuro/.github/main/profile/logo-darkmode.png">
-  <img src="https://raw.githubusercontent.com/glanceneuro/.github/main/profile/logo.png" alt="GLANCE — Gigabit Low-latency Acquisition for Neuroscience & Closed-loop Experiments" width="680">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glanceneuro/.github/main/profile/logo-darkmode.png?v=2">
+  <img src="https://raw.githubusercontent.com/glanceneuro/.github/main/profile/logo.png?v=2" alt="GLANCE — Gigabit Low-latency Acquisition for Neuroscience & Closed-loop Experiments" width="680">
 </picture>
 
 by the [Kemere Lab](https://kemerelab.com) at [Rice University](https://neuroengineering.rice.edu)
